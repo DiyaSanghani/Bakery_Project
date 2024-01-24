@@ -1,0 +1,48 @@
+﻿@using System.Data
+
+<div class="row">
+    <div class="row">
+        <div class="col-md-12 bg-light text-end mb-3">
+            <a asp-action="ViewFlavour" asp-area="Flavour" asp-controller="Flavour"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Flavour</button></a>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Flavour Table</h5>
+            <!-- Default Table -->
+            @if (ViewBag.Flavour != "NULL")
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">FlavourID</th>
+                            <th scope="col">FlavourName</th>
+                            <th scope="col">FlavourDescription</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (DataRow data in Model.Rows)
+                        {
+                            <tr>
+                                <th scope="row">@data["FlavourID"]</th>
+                                <td>@data["FlavourName"]</td>
+                                <td>@data["FlavourDescription"]</td>
+
+                                edit and delete buttons to be uncommented after creating them
+                        <td>
+@*                         <a asp-action="loc_cityedit" asp-route-id="@convert.toint32(@data["cityid"])" class="btn btn-primary btn-sm" title="upload new profile image"><i class="bi bi-pencil-square"></i></a>
+ *@                        <a asp-action="DeleteFlavours" asp-route-id="@Convert.ToInt32(@data["FlavourID"])" class="btn btn-danger btn-sm" title="remove my profile image"><i class="bi bi-trash"></i></a>
+                        </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h3>No Record Found</h3>
+            }
+            <!-- End Default Table Example -->
+        </div>
+    </div>
+</div>

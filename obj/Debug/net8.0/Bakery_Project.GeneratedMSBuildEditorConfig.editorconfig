@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bakery_Project
+build_property.RootNamespace = Bakery_Project
+build_property.ProjectDir = C:\Users\hp\source\repos\Bakery_Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\Bakery_Project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Admin/Views/Admin/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/AreaLayout/_AreaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUxheW91dFxfQXJlYUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/AreaLayout/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJlYUxheW91dFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Cart/Views/Cart/ViewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FydFxWaWV3c1xDYXJ0XFZpZXdDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Cart/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FydFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Cart/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FydFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Category/Views/Category/ViewCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2F0ZWdvcnlcVmlld3NcQ2F0ZWdvcnlcVmlld0NhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Category/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2F0ZWdvcnlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Category/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2F0ZWdvcnlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Employee/Views/Employee/ViewEmployees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcRW1wbG95ZWVcVmlld0VtcGxveWVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Employee/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Employee/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Flavour/Views/Flavour/ViewFlavours.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmxhdm91clxWaWV3c1xGbGF2b3VyXFZpZXdGbGF2b3Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Flavour/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmxhdm91clxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Flavour/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmxhdm91clxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/OrderDetail/Views/OrderDetail/ViewOrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JkZXJEZXRhaWxcVmlld3NcT3JkZXJEZXRhaWxcVmlld09yZGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/OrderDetail/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JkZXJEZXRhaWxcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/OrderDetail/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3JkZXJEZXRhaWxcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Product/Views/Product/AddEditProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxWaWV3c1xQcm9kdWN0XEFkZEVkaXRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Product/Views/Product/ViewProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxWaWV3c1xQcm9kdWN0XFZpZXdQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Product/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/Product/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/User/Views/User/ViewUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyXFZpZXdVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/User/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Areas/User/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/GetDetails/GetDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2V0RGV0YWlsc1xHZXREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Bakery_Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5rtclmcu1i

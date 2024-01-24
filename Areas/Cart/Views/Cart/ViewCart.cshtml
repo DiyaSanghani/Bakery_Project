@@ -1,0 +1,53 @@
+﻿@using System.Data
+
+<div class="row">
+    <div class="row">
+        <div class="col-md-12 bg-light text-end mb-3">
+            <a asp-action="ViewCart" asp-area="Cart" asp-controller="Cart"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Cart</button></a>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Cart Table</h5>
+            <!-- Default Table -->
+            @if (ViewBag.Product != "NULL")
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">CartID</th>
+                            <th scope="col">CartNumber</th>
+                            <th scope="col">TotalAmount</th>
+                            <th scope="col">ProductID</th>
+                            <th scope="col">UserID</th>
+                            <th scope="col">CartQuantity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (DataRow data in Model.Rows)
+                        {
+                            <tr>
+                                <th scope="row">@data["CartID"]</th>
+                                <td>@data["CartNumber"]</td>
+                                <td>@data["TotalAmount"]</td>
+                                <td>@data["ProductID"]</td>
+                                <td>@data["UserID"]</td>
+                                <td>@data["CartQuantity"]</td>
+
+                        <td>
+@*                         <a asp-action="loc_cityedit" asp-route-id="@convert.toint32(@data["cityid"])" class="btn btn-primary btn-sm" title="upload new profile image"><i class="bi bi-pencil-square"></i></a>
+ *@                        <a asp-action="DeleteCart" asp-route-CartID="@Convert.ToInt32(@data["CartID"])" class="btn btn-danger btn-sm" title="remove my profile image"><i class="bi bi-trash"></i></a>
+                        </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h3>No Record Found</h3>
+            }
+            <!-- End Default Table Example -->
+        </div>
+    </div>
+</div>

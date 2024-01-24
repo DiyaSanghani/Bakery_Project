@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Employee\Data\" />
+    <Folder Include="Areas\Flavour\Data\" />
+    <Folder Include="Areas\OrderDetail\Data\" />
+    <Folder Include="Areas\Product\Data\" />
+    <Folder Include="Areas\User\Data\" />
+    <Folder Include="BAL\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EnterpriseLibrary.Data.NetCore" Version="6.3.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="8.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>

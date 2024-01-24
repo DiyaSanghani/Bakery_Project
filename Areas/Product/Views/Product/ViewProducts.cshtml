@@ -1,0 +1,80 @@
+﻿@using System.Data;
+
+
+@* if (TempData["message"] != null)
+{
+    if (TempData["message"].ToString().Contains("Successfully"))
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="bi bi-check-circle me-1"></i>
+            @TempData["message"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <h4 class="alert-heading">Product Not Deleted</h4>
+            <p>@TempData["message"]</p>
+            <hr>
+            <p class="mb-0">Somthing Went Wrong!</p>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+} *@
+
+<div class="row">
+    <div class="row">
+        <div class="col-md-12 bg-light text-end mb-3">
+            <a asp-action="AddEditProducts" asp-area="Product" asp-controller="Product"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Product</button></a>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Product Table</h5>
+            <!-- Default Table -->
+            @if (ViewBag.Product != "NULL")
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">ProductID</th>
+                            <th scope="col">ProductName</th>
+                            <th scope="col">CategoryID</th>
+                            <th scope="col">FlavourID</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">ProductDescription</th>
+                            <th scope="col">Created</th>
+                            <th scope="col">Modified</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (DataRow data in Model.Rows)
+                        {
+                            <tr>
+                                <th scope="row">@data["ProductID"]</th>
+                                <td>@data["ProductName"]</td>
+                                <td>@data["CategoryID"]</td>
+                                <td>@data["FlavourID"]</td>
+                                <td>@data["Price"]</td>
+                                <td>@data["ProductDescription"]</td>                                
+                                <td>@Convert.ToDateTime(data["Created"]).ToString("dd-MM-yyyy")</td>
+                                <td>@Convert.ToDateTime(data["Modified"]).ToString("dd-MM-yyyy")</td>
+                                <td>
+                                    <a asp-action="EditProducts" asp-route-ProductID="@Convert.ToInt32(@data["ProductID"])" class="btn btn-primary btn-sm" ><i class="bi bi-pencil-square"></i></a>
+                                    <a asp-action="DeleteProducts" asp-route-ProductID="@Convert.ToInt32(@data["ProductID"])" class="btn btn-danger btn-sm" ><i class="bi bi-trash"></i></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h3>No Record Found</h3>
+            }
+            <!-- End Default Table Example -->
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1001 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bakery_Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bakery_Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\elegant_font.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\elegant_font.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\flation.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\flation.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\CakeMain\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\barfiller.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\css\\style.css",
+      "PackagePath": "staticwebassets\\CakeMain\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\CakeMain\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\about-video.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\about-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\br-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\br-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\br-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\br-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\br-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\br-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\br-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\br-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\br-5.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\br-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\blog-hero.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\blog-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\clock.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\clock.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\blog\\details\\user.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\blog\\details\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\cake-piece.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\cake-piece.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class-video.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class\\class-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class\\class-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class\\class-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class\\class-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class\\class-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class\\class-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class\\class-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class\\class-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class\\class-5.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class\\class-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\class\\class-6.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\class\\class-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\icon\\cart.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\icon\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\icon\\heart.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\icon\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\icon\\search.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\icon\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\instagram\\cake-piece.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\instagram\\cake-piece.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\logo.png",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\cart\\cart-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\cart\\cart-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\product-big-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\product-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\product-big-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\product-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\product-big-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\product-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\product-big-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\product-big-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\product-big-5.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\product-big-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\details\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\details\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-10.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-11.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-12.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-5.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-6.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-7.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-8.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\shop\\product-9.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\shop\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\testimonial\\ta-1.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\testimonial\\ta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\img\\testimonial\\ta-2.jpg",
+      "PackagePath": "staticwebassets\\CakeMain\\img\\testimonial\\ta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\main.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\CakeMain\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_class.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_class.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_shop.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_shopping-cart.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_shopping-cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\_wisslist.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\_wisslist.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\CakeMain\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\CakeMain\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\css\\style.css",
+      "PackagePath": "staticwebassets\\Dashboard\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\js\\main.js",
+      "PackagePath": "staticwebassets\\Dashboard\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\Bakery_Project\\wwwroot\\Dashboard\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bakery_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bakery_Project.props",
+      "PackagePath": "build\\Bakery_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bakery_Project.props",
+      "PackagePath": "buildMultiTargeting\\Bakery_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bakery_Project.props",
+      "PackagePath": "buildTransitive\\Bakery_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
