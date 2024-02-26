@@ -1,5 +1,7 @@
+using Bakery_Project.BAL;
 using Bakery_Project.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace Bakery_Project.Controllers
@@ -12,6 +14,7 @@ namespace Bakery_Project.Controllers
         {
             _logger = logger;
         }
+        [CheckAccess]
 
         public IActionResult Index()
         {
@@ -21,6 +24,12 @@ namespace Bakery_Project.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        public IActionResult Login()
+        {
+            HttpContext.Session.Clear();
+            return View("Login");
         }
 
         public IActionResult AdminIndex()
@@ -33,5 +42,7 @@ namespace Bakery_Project.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
     }
 }

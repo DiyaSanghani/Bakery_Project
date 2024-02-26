@@ -1,9 +1,16 @@
 ﻿@using System.Data
 
+@if (TempData["Message"] != null)
+{
+    <div class="Message" style="border-radius: 5px; border-block-color: darkgreen; text-align: center; border:dashed; background-color:palegreen; background-blend-mode:lighten ">
+        <p>@TempData["Message"]</p>
+    </div>
+}
+
 <div class="row">
     <div class="row">
         <div class="col-md-12 bg-light text-end mb-3">
-            <a asp-action="ViewFlavour" asp-area="Flavour" asp-controller="Flavour"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Flavour</button></a>
+            <a asp-action="AddEditFlavours" asp-area="Flavour" asp-controller="Flavour"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Flavour</button></a>
         </div>
     </div>
     <div class="card">
@@ -30,8 +37,8 @@
 
                                 edit and delete buttons to be uncommented after creating them
                         <td>
-@*                         <a asp-action="loc_cityedit" asp-route-id="@convert.toint32(@data["cityid"])" class="btn btn-primary btn-sm" title="upload new profile image"><i class="bi bi-pencil-square"></i></a>
- *@                        <a asp-action="DeleteFlavours" asp-route-id="@Convert.ToInt32(@data["FlavourID"])" class="btn btn-danger btn-sm" title="remove my profile image"><i class="bi bi-trash"></i></a>
+                        <a asp-action="EditFlavours" asp-route-id="@Convert.ToInt32(@data["FlavourID"])" class="btn btn-primary btn-sm" ><i class="bi bi-pencil-square"></i></a>
+                        <a asp-action="DeleteFlavours" asp-route-id="@Convert.ToInt32(@data["FlavourID"])" class="btn btn-danger btn-sm" ><i class="bi bi-trash"></i></a>
                         </td>
                             </tr>
                         }

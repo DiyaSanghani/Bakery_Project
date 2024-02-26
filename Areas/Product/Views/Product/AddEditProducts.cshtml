@@ -22,8 +22,8 @@
             <div class="card-body">
                 <h5 class="card-title">@opration Record</h5>
                 <!-- Multi Columns Form -->
-                <form class="row g-3" asp-action="AddEditProducts" method="post">
-                    @Html.HiddenFor(x => x.ProductId)
+                <form class="row g-3" asp-action="AddEditProductsData" method="post">
+                    @Html.HiddenFor(x => x.ProductID)
                     <div class="col-md-12">
                         <label for="inputName5" class="form-label">Product Name</label>
                         <input asp-for="ProductName" type="text" class="form-control">
@@ -35,11 +35,21 @@
                         <span asp-validation-for="CategoryID" class="text-danger"></span>
                     </div>
                     <div class="col-md-6">
-                        <label for="inputFlavour" class="form-label">State</label>
+                        <label for="inputFlavour" class="form-label">Flavour</label>
                         <select asp-for="FlavourID" asp-items="@(new SelectList(ViewBag.FlavourDropdownModel,"FlavourID","FlavourName"))" id="inputFlavour" class="form-select">
                             <option>Select Flavour---</option>
                         </select>
                         <span asp-validation-for="FlavourID" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputPrice" class="form-label">Price</label>
+                        <input asp-for="Price" type="text" class="form-control">
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputProductDescription" class="form-label">Product Description</label>
+                        <input asp-for="ProductDescription" type="text" class="form-control">
+                        <span asp-validation-for="ProductDescription" class="text-danger"></span>
                     </div>
 
                     <div class="text-left">

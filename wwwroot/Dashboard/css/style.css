@@ -210,6 +210,10 @@
     transform: rotate(-180deg);
 }
 
+.navbar{
+    width:100%;
+}
+
 @media (max-width: 575.98px) {
     .content .navbar .navbar-nav .nav-link {
         margin-left: 15px;

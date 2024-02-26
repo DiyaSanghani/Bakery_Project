@@ -4,18 +4,24 @@ namespace Bakery_Project.Areas.Cart.Models
 {
     public class CartModel
     {
-        public int CartId { get; set; }
+        public int? CartID { get; set; }
 
         [Required]
-        public string CartNumber { get; set; }
+        public int CartNumber { get; set; }
         [Required]
-        public string ProductID { get; set; }
+        public int ProductID { get; set; }
         [Required]
-        public decimal UserID { get; set; }
+        public int UserID { get; set; }
 
-        public string TotalAmount { get; set; }
+        public decimal TotalAmount { get; set; }
 
-        public string CartQuantity { get; set;}
+        public int CartQuantity { get; set; }
 
+    }
+
+    public class CartDropdownModel
+    {
+        public int CartID { get; set; }
+        public int CartNumber { get; set; }
     }
 }

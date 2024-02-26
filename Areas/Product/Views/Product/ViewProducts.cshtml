@@ -1,5 +1,14 @@
 ﻿@using System.Data;
 
+@if(TempData["Message"] != null)
+{
+    <div class="Message" style="border-radius: 5px; border-block-color: darkgreen; text-align: center; border:dashed; background-color:palegreen; background-blend-mode:lighten ">
+        <p>@TempData["Message"]</p>
+    </div>
+}
+
+
+
 
 @* if (TempData["message"] != null)
 {
@@ -25,14 +34,20 @@
 } *@
 
 <div class="row">
-    <div class="row">
-        <div class="col-md-12 bg-light text-end mb-3">
-            <a asp-action="AddEditProducts" asp-area="Product" asp-controller="Product"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Product</button></a>
-        </div>
-    </div>
-    <div class="card">
+    
+    <div class="card" style="padding-left: 0px, padding-right: 0px">
         <div class="card-body">
-            <h5 class="card-title">Product Table</h5>
+            <div class="row justify-content-between align-items-center">
+                <h5 class="card-title col-3">Product Table</h5>
+                <div class="col-6"> 
+                    <div class="text-end">
+                        <a asp-action="AddEditProducts" asp-area="Product" asp-controller="Product"><button type="button" class="btn btn-success align-right"><i class="bi bi-plus-lg"></i> Add Product</button></a>
+                        <a class="btn btn-success" asp-area="Product" asp-controller="Product" asp-action="ExportProductsToExcel">
+                            <span> Export table to Excel</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
             <!-- Default Table -->
             @if (ViewBag.Product != "NULL")
             {

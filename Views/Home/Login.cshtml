@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "_LoginLayout";
+}
+
+<html>
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100">
+                <div class="login100-form-title" style="background-image: url('~/Login/images/bg-01.jpg);">
+                    <span class="login100-form-title-1">Sign In</span>
+                </div>
+            @if (TempData["Message"] != null)
+                {
+                    <div class="text-danger">
+                        @Html.Raw(@Convert.ToString(TempData["Message"]))
+                    </div>
+                }
+                <form class="login100-form validate-form" asp-area="User"
+                      asp-controller="User" asp-action="Login">
+                    <div class="wrap-input100 align-content-center m-b-26">
+                        <h2>
+                            <span>Bakery Project</span>
+                        </h2>
+                    </div>
+                    
+                    <div class="wrap-input100 validate-input m-b-26" data-validate="Username is required">
+                        <span class="label-input100">Username</span>
+                    <input class="input100" type="text" name = "email" placeholder="Enter username">
+                        
+                    </div>
+                    <div class="wrap-input100 validate-input m-b-18" data-validate="Password is required">
+                        <span class="label-input100">Password</span>
+                    <input class="input100" type="password" name="password" placeholder="Enter password">
+                        
+                    </div>
+                    <div class="container-login100-form-btn">
+                        <button type="submit" class="login100-form-btn">Login</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</html>

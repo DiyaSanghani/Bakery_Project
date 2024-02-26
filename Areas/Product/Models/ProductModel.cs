@@ -4,7 +4,7 @@ namespace Bakery_Project.Areas.Product.Models
 {
     public class ProductModel
     {
-        public int ProductId { get; set; }
+        public int? ProductID { get; set; }
 
         [Required]
         public string ProductName { get; set; }
@@ -22,6 +22,8 @@ namespace Bakery_Project.Areas.Product.Models
         public DateTime Created { get; set; }
 
         public DateTime Modified { get; set; }
+
+        public List<ProductModel> Products { get; set; }
 
     }
     public class ProductDropdownModel

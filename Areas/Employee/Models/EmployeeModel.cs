@@ -2,7 +2,7 @@
 {
     public class EmployeeModel
     {
-        public int EmployeeId { get; set; }
+        public int? EmployeeID { get; set; }
         public string EmployeeName { get; set; }
         public DateTime JoiningDate { get; set; }
         public bool IsActive {  get; set; }

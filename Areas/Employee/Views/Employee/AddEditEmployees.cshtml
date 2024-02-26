@@ -1,0 +1,47 @@
+﻿﻿@using System.Data;
+@using Bakery_Project.Areas.Employee.Models;
+@model Bakery_Project.Areas.Employee.Models.EmployeeModel;
+@{
+    string opration = "";
+    if (ViewBag.ID > 0)
+    {
+        opration = "Edit";
+    }
+    else
+    {
+        opration = "Add";
+    }
+}
+
+
+<div class="row ">
+    <div class="col-lg-8 align-items-center">
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@opration Record</h5>
+                <!-- Multi Columns Form -->
+                <form class="row g-3" asp-action="AddEditEmployeesData" method="post">
+                    @Html.HiddenFor(x => x.EmployeeID)
+                    <div class="col-md-12">
+                        <label for="inputName5" class="form-label">Employee Name</label>
+                        <input asp-for="EmployeeName" type="text" class="form-control">
+                        <span asp-validation-for="EmployeeName" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-12">
+                        <label for="inputName5" class="form-label">IsActive</label>
+                        <input asp-for="IsActive" type="text" class="form-control">
+                        <span asp-validation-for="IsActive" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="text-left">
+                        <button type="submit" class="btn btn-primary">@opration Record</button>
+                        <button asp-action="Cancel" asp-area="Employee" asp-controller="Employee" class="btn btn-primary">Cancel</button>
+                    </div>
+                </form><!-- End Multi Columns Form -->
+            </div>
+        </div>
+    </div>
+</div>

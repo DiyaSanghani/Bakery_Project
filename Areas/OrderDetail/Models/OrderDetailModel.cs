@@ -2,9 +2,9 @@
 {
     public class OrderDetailModel
     {
-        public string OrderId { get; set; }
-        public string CartId { get; set; }
+        public int? OrderID { get; set; }
+        public int CartID { get; set; }
         public string OrderItemName { get; set; }
-        public string OrderQuantity { get; set; }
+        public int OrderQuantity { get; set; }
     }
 }
